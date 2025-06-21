@@ -14,7 +14,7 @@ Cada decisión tiene un peso. Cada error... un castigo.
 
 ---
 
-## 🛠Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3 + Bootstrap 5
