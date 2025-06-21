@@ -38,7 +38,7 @@ Cada decisión tiene un peso. Cada error... un castigo.
 
 ---
 
-## 🔍 Funcionalidades principales
+## Funcionalidades principales
 
 - Introducción narrada con voz siniestra y texto progresivo.
 - Tres rutas principales: **Lógica**, **Simulación**, **Trampa**.
