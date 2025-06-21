@@ -1,0 +1,44 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+button {
+  margin: 10px;
+}
+
+.glitch {
+  text-shadow: 2px 2px red, -2px -2px blue;
+}
+
+.option-btn {
+  width: 100%;
+  text-align: left;
+}
+
+#game {
+  border: 2px solid #ff4444;
+  padding: 20px;
+  border-radius: 10px;
+  background: #1e1e1e;
+}
+
+.intro-roja {
+  color: #ff4444;
+  font-weight: bold;
+  white-space: pre-wrap;
+}
+
+.img-door {
+  width: 100%;
+  max-width: 150px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  filter: brightness(80%) drop-shadow(0 0 5px red);
+}
+
+.img-door:hover {
+  transform: scale(1.1);
+  filter: brightness(100%) drop-shadow(0 0 15px red);
+}
