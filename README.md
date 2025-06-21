@@ -30,7 +30,7 @@ Cada decisión tiene un peso. Cada error... un castigo.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/crudy.git
+   git clone (https://github.com/alejo11102001/CRUDY_SAW)
    ```
 2. Abre el archivo `index.html` en cualquier navegador moderno.
 3. Asegúrate de tener habilitado el audio y permisos de reproducción automática.
