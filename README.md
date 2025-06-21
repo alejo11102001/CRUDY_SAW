@@ -1,7 +1,9 @@
 # CRUDY: Juega o muere
 
 **Equipo:** The piranhas
+
 **Integrantes:** Diego Zuluaga, Abraham Taborda, Jeronica Cardona  
+
 **Estado del Proyecto:** Finalizado
 
 ---
