@@ -74,15 +74,15 @@ function nivel1() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="Ruta Lógica" class="img-door" onclick="elegirRuta2('logica')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="Ruta Lógica" class="img-door" onclick="elegirRuta2('logica')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Ruta Lógica</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="Entorno Simulado" class="img-door" onclick="elegirRuta2('simulada')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="Entorno Simulado" class="img-door" onclick="elegirRuta2('simulada')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Entorno Simulado</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="Trampa Desconocida" class="img-door" onclick="elegirRuta2('trampa')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="Trampa Desconocida" class="img-door" onclick="elegirRuta2('trampa')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Trampa Desconocida</p>
       </div>
     </div>
@@ -120,15 +120,15 @@ function nivel2Logica() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarLogica1('720')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarLogica1('720')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">720</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarLogica1('600')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarLogica1('600')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">600</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarLogica1('840')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarLogica1('840')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">840</p>
       </div>
     </div>
@@ -158,15 +158,15 @@ function nivel3Logica() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarLogica2('🔴')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarLogica2('🔴')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🔴</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarLogica2('🟢')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarLogica2('🟢')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🟢</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarLogica2('🔵')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarLogica2('🔵')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🔵</p>
       </div>
     </div>
@@ -189,15 +189,15 @@ function nivel4Logica() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarLogica3('no')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarLogica3('no')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">No</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarLogica3('si')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarLogica3('si')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Si</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarLogica3('indeterminado')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarLogica3('indeterminado')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Indeterminado</p>
       </div>
     </div>
@@ -224,15 +224,15 @@ function nivelLogica5() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="respuestaFinal1(1, 'while')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="respuestaFinal1(1, 'while')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">While</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="respuestaFinal1(1, 'if')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="respuestaFinal1(1, 'if')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">If</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="respuestaFinal1(1, 'forEach')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="respuestaFinal1(1, 'forEach')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">ForEach</p>
       </div>
     </div>
@@ -258,15 +258,15 @@ function pregunta2() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="respuestaFinal2(2, '&&')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="respuestaFinal2(2, '&&')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">&&</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="respuestaFinal2(2, '||')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="respuestaFinal2(2, '||')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">||</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="respuestaFinal2(2, '!=')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="respuestaFinal2(2, '!=')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">!=</p>
       </div>
     </div>
@@ -290,15 +290,15 @@ function pregunta3() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="final1('bucle')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="final1('bucle')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Un bucle infinito</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="final1('repeticion')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="final1('repeticion')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Una función que se llama a sí misma</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="final1('reutilizacion')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="final1('reutilizacion')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Reutilizar código</p>
       </div>
     </div>
@@ -336,15 +336,15 @@ function nivel2Simulada() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarSimulada1('🔺')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarSimulada1('🔺')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🔺</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarSimulada1('🔻')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarSimulada1('🔻')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🔻</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarSimulada1('🟥')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarSimulada1('🟥')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🟥</p>
       </div>
     </div>
@@ -373,15 +373,15 @@ function nivel3Simulada() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarSimulada2('🔴')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarSimulada2('🔴')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🔴</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarSimulada2('🟢')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarSimulada2('🟢')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🟢</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarSimulada2('🔵')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarSimulada2('🔵')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">🔵</p>
       </div>
     </div>
@@ -404,15 +404,15 @@ function nivel4Simulada() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarSimulada3('incorrecta')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarSimulada3('incorrecta')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Incorrecta</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarSimulada3('correcta')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarSimulada3('correcta')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Correcta</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarSimulada3('ninguna')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarSimulada3('ninguna')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Ninguna</p>
       </div>
     </div>
@@ -440,15 +440,15 @@ function nivelSimulada5() {
 
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="finalSimulada(1)" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="finalSimulada(1)" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">1</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="finalSimulada(2)" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="finalSimulada(2)" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">2</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="finalSimulada(3)" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="finalSimulada(3)" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">3</p>
       </div>
     </div>
@@ -477,15 +477,15 @@ function nivel2Trampa() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarTrampa('roja')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarTrampa('roja')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Puerta Roja</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarTrampa('negra')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarTrampa('negra')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Puerta Negra</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarTrampa('gris')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarTrampa('gris')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Puerta gris</p>
       </div>
     </div>
@@ -503,15 +503,15 @@ function nivel3Trampa() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarTrampa2()" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarTrampa2()" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Intentar otra vez</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarTrampa2()" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarTrampa2()" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Cerrar los ojos</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarTrampa2()" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarTrampa2()" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Gritar fuerte</p>
       </div>
     </div>
@@ -530,15 +530,15 @@ function nivel4Trampa() {
     <p class="mt-3">Si esta afirmación es falsa, ¿entonces es…?</p>
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarTrampa3()" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="evaluarTrampa3()" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Verdadera</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarTrampa3()" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="evaluarTrampa3()" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Falsa</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarTrampa3()" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="evaluarTrampa3()" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Ambas</p>
       </div>
     </div>
@@ -556,11 +556,11 @@ function nivel5Trampa() {
   game.innerHTML += `
     <div class="row text-center mt-4">
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="finalTrampa('reinicio')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-1" class="img-door" onclick="finalTrampa('reinicio')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Reiniciado eternamente</p>
       </div>
       <div class="col-md-4">
-        <img src="../../assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="finalTrampa('apagado')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-2" class="img-door" onclick="finalTrampa('apagado')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Apagado como un error</p>
       </div>
       <div class="col-md-4">
