@@ -564,7 +564,7 @@ function nivel5Trampa() {
         <p class="mt-2">Apagado como un error</p>
       </div>
       <div class="col-md-4">
-        <img src="../images/puerta1.webp" alt="opcion-3" class="img-door" onclick="finalTrampa('corrupcion')" onmouseenter="reproducirSonidoPuerta()">
+        <img src="assets/images/puerta1.webp" alt="opcion-3" class="img-door" onclick="finalTrampa('corrupcion')" onmouseenter="reproducirSonidoPuerta()">
         <p class="mt-2">Corrupto por siempre</p>
       </div>
     </div>
